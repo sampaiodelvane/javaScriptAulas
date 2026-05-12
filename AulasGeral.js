@@ -148,4 +148,105 @@ if (!isNaN(tabNum)) {
     alert(tabela);
 }
 
+//Última aula
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+
+<script src="script.js"></script>
+   
+</body>
+</html>
+
+
+
+
+----------------------------------
+
+
+
+// 01 function diminuirNumero(numero){
+//     while (numero <=10) {
+//         console.log(numero);
+//         numero++;      
+//     }
+// }
+// let numeroDigitado = Number(prompt("Digite um numero"))
+// diminuirNumero(numeroDigitado)
+
+
+
+
+
+
+// 02 lopping para contagem regressiva
+// let numeroDigitado = Number(prompt("Digite um numero"))
+// diminuirNumero(numeroDigitado)
+// function diminuirNumero(numero){
+//     while (numero >=1) {
+//         console.log(numero);
+//         numero--;      
+//     }
+// }
+
+
+
+
+// 03 lopping para contagem regressiva
+
+
+
+// let nome;
+// do{
+//     nome = prompt("Digite um nome");
+//     if(nome.length <=3){
+//         alert("Digite nome valido")
+//     }
+// } while(nome.length <=3)
+
+// let idade;
+// do{
+//     idade = prompt("Digite sua idade");
+// } while(isNaN(idade>0 || idade >150))
+
+
+// let salario;
+// do{
+//     salario = prompt("Digite seu salario");
+// } while(isNaN(salario>0))
+
+
+// let genero;
+// do{
+//     genero = prompt("Digite seu genero");
+// } while(genero !=='f' && genero !=='m')
+
+
+// let estadoCivil;
+// do{
+//     estadoCivil = prompt("Digite seu Estado Civil");
+// } while(estadoCivil !=='s'&& estadoCivil !=='c' && estadoCivil !=='v'&& estadoCivil !=='d')
+
+
+// // 04 faça um programa usando estrutura de repetição que mostre a tabuada
+// //ate 10 que qualquer numero fornecido
+
+
+// let numero = Number(prompt("Digite um numero"))
+// for(let i = 1; i <= 10; i++){
+//     console.log(`O numero ${numero} x ${i} é ${numero *i}`);
+// }
+
+
+
 
